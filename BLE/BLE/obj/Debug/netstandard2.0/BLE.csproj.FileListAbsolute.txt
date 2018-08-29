@@ -1,0 +1,12 @@
+C:\dev\NuernbergMesse\BLE\BLE\BLE\bin\Debug\netstandard2.0\BLE.deps.json
+C:\dev\NuernbergMesse\BLE\BLE\BLE\bin\Debug\netstandard2.0\BLE.dll
+C:\dev\NuernbergMesse\BLE\BLE\BLE\bin\Debug\netstandard2.0\BLE.pdb
+C:\dev\NuernbergMesse\BLE\BLE\BLE\obj\Debug\netstandard2.0\BLE.csprojAssemblyReference.cache
+C:\dev\NuernbergMesse\BLE\BLE\BLE\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\NuernbergMesse\BLE\BLE\BLE\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\NuernbergMesse\BLE\BLE\BLE\obj\Debug\netstandard2.0\BLE.csproj.CoreCompileInputs.cache
+C:\dev\NuernbergMesse\BLE\BLE\BLE\obj\Debug\netstandard2.0\BLE.AssemblyInfoInputs.cache
+C:\dev\NuernbergMesse\BLE\BLE\BLE\obj\Debug\netstandard2.0\BLE.AssemblyInfo.cs
+C:\dev\NuernbergMesse\BLE\BLE\BLE\obj\Debug\netstandard2.0\XamlC.stamp
+C:\dev\NuernbergMesse\BLE\BLE\BLE\obj\Debug\netstandard2.0\BLE.dll
+C:\dev\NuernbergMesse\BLE\BLE\BLE\obj\Debug\netstandard2.0\BLE.pdb
